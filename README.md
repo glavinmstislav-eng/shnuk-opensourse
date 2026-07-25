@@ -1,1 +1,1 @@
-# shnuk-opensourse
+# исходники всех моделей shnuk
